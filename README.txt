@@ -7,3 +7,4 @@ review
 hello
 
 alter
+Creating a new branch is quick.
